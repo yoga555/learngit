@@ -5,4 +5,8 @@ i want to study
 2 test2
 change abc
 create a new branch is quick
-i love music2
+<<<<<<< HEAD
+i love music
+=======
+i love music
+>>>>>>> feature1
